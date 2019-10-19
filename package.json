@@ -1,0 +1,17 @@
+{
+  "name": "hypersafe",
+  "version": "0.0.1",
+  "description": "escapes vnode/vdom xss",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "scripts": {},
+  "repository": "sergey-shpak/hypersafe",
+  "keywords": [
+    "hyperapp",
+    "xss",
+    "escape"
+  ],
+  "author": "Sergey Shpak",
+  "license": "MIT",
+  "homepage": "https://github.com/sergey-shpak/hypersafe#readme"
+}
